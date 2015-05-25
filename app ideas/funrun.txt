@@ -1,0 +1,5 @@
+I have only one idea for a minigame but this series of minigames can be interesting.
+
+It is mostly for joggers/walkers to have some fun during their exercise
+
+1. Mine Run: This will randomly create a virtual mine on the road you are really walking, when you get close to the virtual mine, it will start making a sound, whose volume will increase as you get closer to the mine, if you get too close, the mine will burst and game over. Try to increase your score by walking more distance before getting blown up. This will require an intensive accelerometer use

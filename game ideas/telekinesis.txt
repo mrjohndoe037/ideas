@@ -1,0 +1,1 @@
+a 2-d scroller game in which tapping on the screen causes a telekinetic pulse that moves nearby objects to make way for the charachter to move ahead

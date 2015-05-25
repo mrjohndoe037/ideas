@@ -1,0 +1,1 @@
+when near a building, the app will tell you which areas to take photographs of so that it can create a virtual model of that building-possible application in creating a google 3d map

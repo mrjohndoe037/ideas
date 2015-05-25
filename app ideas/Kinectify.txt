@@ -1,0 +1,1 @@
+A kinect like app, except this time it uses the accelerometer to determine your changes in position

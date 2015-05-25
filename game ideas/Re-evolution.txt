@@ -1,0 +1,1 @@
+A game that simulates the world from its beginning. Its just a ball of fire after the big bang and you can choose how to evolve it, for example, you can make it collide with an asteroid, keep the dinosaurs alive, remove gravity or introduce a new weather, basically control some actions that eventually creates(evolves) a world different from ours

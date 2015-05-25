@@ -1,0 +1,1 @@
+make an app that takes a pdf full of marks data and gives you statistics related to the marks everyone has got

@@ -1,0 +1,1 @@
+you verbally explain the algo to the app and it will write the code for you

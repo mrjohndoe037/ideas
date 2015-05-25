@@ -1,0 +1,1 @@
+The player has died and has now become a ghost. You can choose the ghost's power in the beginning(possesion,telekinesis,element control,weather change etc). There are missions as well as free roam, the ghost can fly, play pranks on people, increase their ghost reputation by scaring/killing etc

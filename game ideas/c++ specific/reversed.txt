@@ -1,0 +1,18 @@
+
+in this, walls will be coming towards you with a small hole through which you have to pass, but be careful as the controls for moving left and right may reverse after giving a 3 sec notice
+
+Requirements
+functions:
+a function for generating the map(variable hole size and position) done
+a function for checking whether the object passed through or not
+a function for timely reversing the controls, it will happen between 6-14 sec
+
+for generating map:
+the individual walls must be at a distance between 5-8
+the gap in between has to be four spaces wide
+
+(164,49)
+what is left-
+making something to wait for input without waiting and update playerx
+randomly deciding when controls are going to change
+output for giving notice that controls are changing

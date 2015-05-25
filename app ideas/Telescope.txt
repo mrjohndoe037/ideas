@@ -1,0 +1,1 @@
+This uses your location and accelerometer to determine the angle at which you are holding your mobile, and it will simulate the night sky for you, and the same stars that you would see normally at this position would be simulated into the app. Basically it would look like you are looking through a smart telescope

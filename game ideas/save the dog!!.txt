@@ -1,0 +1,1 @@
+a dog is falling from the top floor of a building under construction. You have to slightly move the environment objects(such as hanging metal bars etc) to cut down on the dog's velocity as it is falling.
